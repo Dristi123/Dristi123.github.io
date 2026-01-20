@@ -23,7 +23,7 @@ repository               : "Dristi123/Dristi123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png"
+  avatar           : "picture.jpg"
   name             : "Simantika Bhattacharjee Dristi"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student"
