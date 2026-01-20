@@ -91,10 +91,13 @@ redirect_from:
   </p>
 </div>
 
-# <span id="skills"></span> Technical Skills
+<span id="skills"></span>
 
-**Languages:** Python, Java,  C/C++, Bash, JavaScript, HTML/CSS  
-**Frameworks and Libraries:** Transformers, HuggingFace, PEFT, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, NLTK, Spacy, etc.  
+# Technical Skills
 
----
+**Languages:** Python, Java, C/C++, Bash, JavaScript, HTML/CSS  
+**Frameworks and Libraries:** Transformers, HuggingFace, PEFT, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, NLTK, SpaCy, etc.
+
+
+
 
