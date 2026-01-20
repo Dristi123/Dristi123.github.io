@@ -74,9 +74,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <ul>
    <li>Won Best Poster -Faculty Choice and Best Poster- Audience Choice awards at UVA Research Symposium 2025</li>
    
-   <li><b>Received UVA Provost's Fellowship </b> awarded by UVA's Graduate Education Initiative to support graduate studies.</li>
+   <li>Received <b>UVA Provost's Fellowship </b>, awarded by UVA's Graduate Education Initiative to support graduate studies.</li>
 
-   <li><b>Received Dean's List</b> and <b>University Merit Scholarship</b> awarded by the Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
+   <li>Received <b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by the Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
   
    </ul>
   </p>
@@ -97,5 +97,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    </ul>
   </p>
 </div>
-	
+
+# <span id="skills"></span> Technical Skills
+
+**Languages:** Python, Java,  C/C++, Bash, JavaScript, HTML/CSS  
+**Frameworks and Libraries:** Transformers, HuggingFace, PEFT, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, NLTK, Spacy, etc.  
+
+---
 
