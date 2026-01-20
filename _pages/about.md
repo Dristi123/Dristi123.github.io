@@ -28,75 +28,54 @@ redirect_from:
 
 
 
-# <span id="experience"></span> Work Experience
+<span id="experience"></span>
+# Work Experience
 
 - **Graduate Research Assistant** *(Aug 2024 – Present)*  
   LESS Lab, University of Virginia  
-  Advisor: <a href="https://matthewbdwyer.github.io/"> Prof. Matthew B. Dwyer</a>
-- **Lecturer (On Leave)** *(June 2023 – Present)*  
+  Advisor: <a href="https://matthewbdwyer.github.io/">Prof. Matthew B. Dwyer</a>
+
+- **Lecturer (On Leave)** *(Jun 2023 – Present)*  
   Department of Computer Science and Engineering, BRAC University
+
 - **Remote Research Collaborator** *(Jun 2023 – Dec 2023)*  
-  Security and Software Engineering (S2E) lab, University of Notre Dame, Indiana
+  Security and Software Engineering (S2E) Lab, University of Notre Dame, Indiana
 
 
-<div id="publications">
-<h1>Publications</h1>
+<span id="publications"></span>
+# Publications
 
-<div>
+- **LoCaL: Countering Surface Bias in Code Evaluation Metrics**  
+**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
+ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026. [<a href="https://arxiv.org/pdf/2509.15397v1" target="_blank">Preprint</a>]
 
-  <p> 
-  <b>LoCaL: Countering Surface Bias in Code Evaluation Metrics</b>
-  <br><b>Simantika Bhattacharjee Dristi</b>, Matthew B. Dwyer
-  <br>ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>), 2026.
-  <br><a href="https://arxiv.org/pdf/2509.15397v1" target="_blank">Preprint</a>      
-  </p>
-  <p> 
-  <b>The Fault in our Stars: Quality Assessment of Code Generation Benchmarks</b>
-  <br>Mohammed Latif Siddiq, <b>Simantika Bhattacharjee Dristi</b>, Joy Saha, Joanna C. S. Santos
-  <br>IEEE International Workshop on Source Code Analysis and Manipulation, 2024.
-  <br><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10795375" target="_blank">Paper</a>        
-  </p>
-</div>
-	
-	
-<div id="awards">
-<h1>Honors & Awards</h1>
-	
-<div>
-  <p>
-   <ul>
-   <li>Won Best Poster -Faculty Choice and Best Poster- Audience Choice awards at UVA Research Symposium 2025</li>
-   
-   <li>Received <b>UVA Provost's Fellowship </b>, awarded by UVA's Graduate Education Initiative to support graduate studies.</li>
-
-   <li>Received <b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by the Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
-  
-   </ul>
-  </p>
-</div>
+- **The Fault in our Stars: Quality Assessment of Code Generation Benchmarks**  
+Mohammed Latif Siddiq, **Simantika Bhattacharjee Dristi**, Joy Saha, Joanna C. S. Santos  
+IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10795375" target="_blank">Paper</a>]
 
 
 
+<span id="award"></span>
+# Honors & Awards
 
-<div id="services">
-<h1>Services</h1>
-	
-<div>
-  <p>
-   <ul>
-   <li>Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026</li>
-   <li>General Secretary, Association of Bangladeshi Students at UVA (ABS@UVA), 2025-2026 Committee </li>
-   
-   </ul>
-  </p>
-</div>
+- Won **Best Poster – Faculty Choice** and **Best Poster – Audience Choice** at the UVA Research Symposium 2025.
+- Received the **UVA Provost’s Fellowship** (additional \$5,000/year PhD support + \$7,500 one-time research award).
+- Received **Dean’s List** and **University Merit Scholarship** from the Department of CSE, BUET.
+
+
+<span id="services"></span>
+# Services
+
+- Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026
+- General Secretary, Association of Bangladeshi Students at UVA (ABS@UVA), 2025–2026 Committee
+
 
 <span id="skills"></span>
-
 # Technical Skills
 
 **Languages:** Python, Java, C/C++, Bash, JavaScript, HTML/CSS  
 **Frameworks and Libraries:** Transformers, HuggingFace, PEFT, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, NLTK, SpaCy, etc.
+
 
 
 
