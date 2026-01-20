@@ -43,13 +43,6 @@ redirect_from:
 <h1>Publications</h1>
 
 <div>
-For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=7yWZlF8AAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.</u>
-<br><br>
-</div>
-
-
-  
-<div>
 
   <p> 
   <b>LoCaL: Countering Surface Bias in Code Evaluation Metrics</b>
