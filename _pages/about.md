@@ -1,29 +1,13 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS), specializing in Forecasting for Supply Chain Optimization. I develop accurate, robust, and scalable forecasting models for Demand and Supply Planning, as part of the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group.
-
-Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient sensory learning systems for Wearable Sensing and Human Motion Recognition. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. I was an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2023</a>.
-
-During my Ph.D, I spent several wonderful summers as an Applied Scientist II Intern at AWS AI, working on LLM integration with Music, Speech, and Audio. I also spent a summer as a Data Science Intern at Bell Labs and a Software Development Engineer Intern at AWS Redshift.
-
-<h2>Research Interests</h2>
-
-I am broadly interested in building applications from time-series data, including:
-- <b>Supply Chain</b> - Improved demand forecasting to support accurate resource planning, optimizing inventory management, exception detection, root cause analysis, and driving actionable recommendations in retail and manufacturing.
-- <b>Wearable Sensing & Healthcare</b> - Leveraged kinematic data, enriched with physical and semantic context, to enhance action recognition and improve health assessment from physiological signals.
-- <b>Audio Analysis</b> - Augmented accent-robustness of speech models and designed chatbots for audio and music interaction. 
-
-To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
-
-
-
+<h1>About Me</h1>
+Hi, I am a PhD student in Computer Science at the University of Virginia (UVA), advised by <a href="https://matthewbdwyer.github.io/"> Prof. Matthew B. Dwyer</a>. I am also a member of <a href="https://less-lab-uva.github.io/">LESS Lab</a>. My research lies at the intersection of software engineering and generative AI, with a focus on leveraging Large Language Models (LLMs) to enhance the testing, evaluation, and reasoning capabilities of software systems. 
+I am always up for collaborations and exciting chats about new ideas! 
 
 <h1>News</h1>
 
