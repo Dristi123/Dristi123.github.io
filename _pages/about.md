@@ -12,6 +12,8 @@ redirect_from:
 
 <h1>News</h1>
 
+- **[March 2026]** Attended the CRA-WP Grad Cohort 2026 in Seattle!
+
 - **[January 2026]** Elected as the Leadership Chair of the Computer Science Graduate Student Group (CSGSG), UVA.
 
 - **[December 2025]** First lead-authored paper from PhD, <a href="https://arxiv.org/abs/2509.15397v1">LoCaL: Countering Surface Bias in Code Evaluation Metrics</a> directly accepted to <b>FSE</b> '26 - main research track!!
@@ -57,7 +59,7 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 
 <span id="award"></span>
 # Honors & Awards
-
+- Received Travel Grant to attend **CRA-WP Grad Cohort 2026**
 - Won **Best Poster – Faculty Choice** and **Best Poster – Audience Choice** at the UVA Research Symposium 2025.
 - Received the **UVA Provost’s Fellowship** (additional \$5,000/year PhD support + \$7,500 one-time research award).
 - Received **Dean’s List** and **University Merit Scholarship** from the Department of CSE, BUET.
