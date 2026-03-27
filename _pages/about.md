@@ -12,6 +12,8 @@ redirect_from:
 
 <h1>News</h1>
 
+- **[December 2025]** First-authored paper, <a href="https://arxiv.org/abs/2602.15761">A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings</a> accepted to the LLMTrust workshop, co-located with FSE2026!
+
 - **[March 2026]** Attended the CRA-WP Grad Cohort 2026 in Seattle!
 
 - **[January 2026]** Elected as the Leadership Chair of the Computer Science Graduate Student Group (CSGSG), UVA.
@@ -50,6 +52,10 @@ redirect_from:
 - **LoCaL: Countering Surface Bias in Code Evaluation Metrics**  
 **Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
 ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026. [<a href="https://arxiv.org/pdf/2509.15397v1" target="_blank">Preprint</a>]
+
+- **A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings**
+**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
+International Workshop on Software Engineering for and with Trustworthy LLMs(**LLMTrust**), 2026. [<a href="https://arxiv.org/abs/2602.15761" target="_blank">Preprint</a>]
 
 - **The Fault in our Stars: Quality Assessment of Code Generation Benchmarks**  
 Mohammed Latif Siddiq, **Simantika Bhattacharjee Dristi**, Joy Saha, Joanna C. S. Santos  
