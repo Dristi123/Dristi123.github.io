@@ -55,7 +55,7 @@ ACM International Conference on the Foundations of Software Engineering (**FSE**
 
 - **A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings**  
 **Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
-International Workshop on Software Engineering for and with Trustworthy LLMs(**LLMTrust**), 2026. [<a href="https://arxiv.org/pdf/2602.15761" target="_blank">Preprint</a>]
+International Workshop on Software Engineering for and with Trustworthy LLMs (**LLMTrust**), 2026. [<a href="https://arxiv.org/pdf/2602.15761" target="_blank">Preprint</a>]
 
 - **The Fault in our Stars: Quality Assessment of Code Generation Benchmarks**  
 Mohammed Latif Siddiq, **Simantika Bhattacharjee Dristi**, Joy Saha, Joanna C. S. Santos  
