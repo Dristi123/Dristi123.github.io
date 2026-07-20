@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>News</h1>
 
-- **[July 2026]** Attended FSE2026 and presented two first-authored papers.
+- **[July 2026]** Attended **FSE2026** and presented two first-authored papers.
 
 - **[March 2026]** First-authored paper, <a href="https://arxiv.org/abs/2602.15761">A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings</a> accepted to the LLMTrust workshop, co-located with FSE2026!
 
