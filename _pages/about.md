@@ -51,11 +51,11 @@ redirect_from:
 
 - **LoCaL: Countering Surface Bias in Code Evaluation Metrics**  
 **Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
-ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026. [<a href="https://arxiv.org/pdf/2509.15397v1" target="_blank">Preprint</a>]
+ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026. [<a href="https://dl.acm.org/doi/abs/10.1145/3797089" target="_blank">Paper</a>]
 
 - **A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings**  
 **Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
-International Workshop on Software Engineering for and with Trustworthy LLMs (**LLMTrust**), 2026. [<a href="https://arxiv.org/pdf/2602.15761" target="_blank">Preprint</a>]
+International Workshop on Software Engineering for and with Trustworthy LLMs (**LLMTrust**), 2026. [<a href="https://dl.acm.org/doi/10.1145/3803437.3806717" target="_blank">Paper</a>]
 
 - **The Fault in our Stars: Quality Assessment of Code Generation Benchmarks**  
 Mohammed Latif Siddiq, **Simantika Bhattacharjee Dristi**, Joy Saha, Joanna C. S. Santos  
