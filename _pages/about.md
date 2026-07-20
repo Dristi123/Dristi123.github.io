@@ -12,6 +12,8 @@ redirect_from:
 
 <h1>News</h1>
 
+- **[July 2026]** Attended FSE2026 and presented two first-authored papers.
+
 - **[March 2026]** First-authored paper, <a href="https://arxiv.org/abs/2602.15761">A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings</a> accepted to the LLMTrust workshop, co-located with FSE2026!
 
 - **[March 2026]** Attended the CRA-WP Grad Cohort 2026 in Seattle!
@@ -19,8 +21,6 @@ redirect_from:
 - **[January 2026]** Elected as the Leadership Chair of the Computer Science Graduate Student Group (CSGSG), UVA.
 
 - **[December 2025]** First lead-authored paper from PhD, <a href="https://arxiv.org/abs/2509.15397v1">LoCaL: Countering Surface Bias in Code Evaluation Metrics</a> directly accepted to <b>FSE</b> '26 - main research track!!
-
-- **[November 2025]** Abstract, <a href="https://arxiv.org/abs/2509.15397v2">Analyzing and Mitigating Surface Bias in Code Evaluation Metrics</a> accepted for oral presentation at the William and Mary Graduate Research Symposium 2026. 
 
 - **[October 2025]** Won both <b>Best Poster-Faculty Choice</b> and <b>Best Poster- Audience Choice</b> awards at the UVA Research Symposium 2025!
 
@@ -65,6 +65,7 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 
 <span id="award"></span>
 # Honors & Awards
+- Served in the Artifact Evaluation Program Committee for **ASE 2026**.
 - Received Travel Grant to attend **CRA-WP Grad Cohort 2026**.
 - Won **Best Poster – Faculty Choice** and **Best Poster – Audience Choice** at the UVA Research Symposium 2025.
 - Received the **UVA Provost’s Fellowship** (additional \$5,000/year PhD support + \$7,500 one-time research award).
