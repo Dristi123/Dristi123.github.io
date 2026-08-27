@@ -65,7 +65,6 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 
 <span id="award"></span>
 # Honors & Awards
-- Served in the Artifact Evaluation Program Committee for **ASE 2026**.
 - Received Travel Grant to attend **CRA-WP Grad Cohort 2026**.
 - Won **Best Poster – Faculty Choice** and **Best Poster – Audience Choice** at the UVA Research Symposium 2025.
 - Received the **UVA Provost’s Fellowship** (additional \$5,000/year PhD support + \$7,500 one-time research award).
@@ -74,7 +73,7 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 
 <span id="services"></span>
 # Services
-
+- Program Committee Member, Artifact Evaluation Track, ASE 2026
 - Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026
 - General Secretary, Association of Bangladeshi Students at UVA (ABS@UVA), 2025–2026 Committee
 
