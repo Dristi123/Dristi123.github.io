@@ -20,7 +20,7 @@ redirect_from:
 
 - **[August 2026]** Check out our latest preprint, <a href="https://arxiv.org/abs/2608.04195">SONAR: Task-Aware Code Summary Evaluation for LLM Consumers Without References</a>
 
-- **[July 2026]** Attended **FSE2026** and presented two first-authored papers.
+- **[July 2026]** Attended **FSE2026** and presented two first-authored papers. [<a href="/gallery/#fse-2026">📸 Photos</a>]
 
 - **[March 2026]** First-authored paper, <a href="https://arxiv.org/abs/2602.15761">A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings</a> accepted to the LLMTrust workshop, co-located with FSE2026!
 
@@ -57,18 +57,6 @@ redirect_from:
 <span id="publications"></span>
 # Publications
 
-- **DIFUZZI: A Differential Fuzzing Tool for Code Functional Similarity Assessment**  
-**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
-*Under review*, 2026. [<a href="https://arxiv.org/abs/2610.38337" target="_blank">Preprint</a>]
-
-- **What Survives the Next Model? Benchmarking LLM-Based Techniques Against Single-Prompts**  
-Nahian Salsabil, Joy Saha, **Simantika Bhattacharjee Dristi**, Nicholas Phair, Nusrat Jahan Mozumder, Matthew B. Dwyer, Sebastian Elbaum  
-*Under review*, 2026. [<a href="https://arxiv.org/abs/2609.00468" target="_blank">Preprint</a>]
-
-- **SONAR: Task-Aware Code Summary Evaluation for LLM Consumers Without References**  
-**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
-*Under review*, 2026. [<a href="https://arxiv.org/abs/2608.04195" target="_blank">Preprint</a>]
-
 - **LoCaL: Countering Surface Bias in Code Evaluation Metrics**  
 **Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
 ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026. [<a href="https://dl.acm.org/doi/abs/10.1145/3797089" target="_blank">Paper</a>]
@@ -80,6 +68,18 @@ International Workshop on Software Engineering for and with Trustworthy LLMs (**
 - **The Fault in our Stars: Quality Assessment of Code Generation Benchmarks**  
 Mohammed Latif Siddiq, **Simantika Bhattacharjee Dristi**, Joy Saha, Joanna C. S. Santos  
 IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10795375" target="_blank">Paper</a>]
+
+- **DIFUZZI: A Differential Fuzzing Tool for Code Functional Similarity Assessment**  
+**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
+*Under review*, 2026. [<a href="https://arxiv.org/abs/2610.38337" target="_blank">Preprint</a>]
+
+- **What Survives the Next Model? Benchmarking LLM-Based Techniques Against Single-Prompts**  
+Nahian Salsabil, Joy Saha, **Simantika Bhattacharjee Dristi**, Nicholas Phair, Nusrat Jahan Mozumder, Matthew B. Dwyer, Sebastian Elbaum  
+*Under review*, 2026. [<a href="https://arxiv.org/abs/2609.00468" target="_blank">Preprint</a>]
+
+- **SONAR: Task-Aware Code Summary Evaluation for LLM Consumers Without References**  
+**Simantika Bhattacharjee Dristi**, Matthew B. Dwyer  
+*Under review*, 2026. [<a href="https://arxiv.org/abs/2608.04195" target="_blank">Preprint</a>]
 
 
 
@@ -95,9 +95,9 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 # Services
 - Junior Program Committee Member, MSR 2027
 - Program Committee Member, Artifact Evaluation Track, ASE 2026
+- Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026
 - Teaching Assistant, CS 4620: Compilers, University of Virginia, Fall 2026
 - Graduate Mentor, CSGSG Mentorship Program, Fall 2026 (mentoring two CS Master's students)
-- Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026
 - General Secretary, Association of Bangladeshi Students at UVA (ABS@UVA), 2025–2026 Committee
 
 
@@ -105,10 +105,8 @@ IEEE International Workshop on Source Code Analysis and Manipulation, 2024.  [<a
 # Technical Skills
 
 **Languages:** Python, Java, C/C++, Bash  
-**LLMs & Generative AI:** Prompt Engineering, Fine-Tuning (LoRA/QLoRA), LLM Evaluation & Benchmarking, LLM-as-a-Judge, Retrieval-Augmented Generation (RAG), LLM Agents & Tool Use, Code Generation & Code LLMs  
-**AI/ML Frameworks:** PyTorch, TensorFlow, HuggingFace Transformers, PEFT, vLLM, LangChain, OpenAI & Anthropic APIs  
-**Software Testing & Analysis:** Differential Fuzzing, Test Generation, Program Analysis, Code Similarity & Equivalence Checking  
-**NLP & Infrastructure:** NLTK, SpaCy, Docker, Slurm/HPC
+**ML & LLM Frameworks:** PyTorch, TensorFlow, HuggingFace Transformers, PEFT (LoRA/QLoRA), vLLM  
+**Tools:** Git, Docker, Linux, Slurm/HPC, OpenAI & Anthropic APIs
 
 
 
