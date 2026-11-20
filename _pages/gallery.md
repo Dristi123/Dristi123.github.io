@@ -10,9 +10,9 @@ author_profile: true
 -->
 <style>
   .gallery-section h2 { margin-top: 1.5em; }
-  .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin-top: 0.75em; }
-  .gallery a { display: block; }
-  .gallery img { width: 100%; height: 200px; object-fit: cover; border-radius: 6px; transition: opacity 0.2s; }
+  .gallery { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 0.75em; }
+  .gallery a { display: block; max-width: 100%; }
+  .gallery img { display: block; height: 240px; width: auto; max-width: 100%; object-fit: contain; border-radius: 6px; transition: opacity 0.2s; }
   .gallery img:hover { opacity: 0.85; }
 </style>
 
