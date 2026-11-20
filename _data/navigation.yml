@@ -23,6 +23,9 @@ main:
   - title: "Skills"
     url: "/#skills"
 
+  - title: "Gallery"
+    url: "/gallery/"
+
   - title: "CV"
     url: "/files/Simantika_CV.pdf"
 

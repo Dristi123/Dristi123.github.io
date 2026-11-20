@@ -1,0 +1,15 @@
+# Gallery sections, shown on /gallery/ in this order.
+# To add a section: create a folder in images/gallery/, put photos in it,
+# and add an entry here.
+#   title:       heading shown on the page
+#   folder:      folder name inside images/gallery/ (also the link anchor: /gallery/#<folder>)
+#   description: optional one-line caption under the heading
+
+- title: "UVA CS Research Symposium 2026"
+  folder: "cs-research-symposium-2026"
+  description: "Organized and planned as the Leadership Chair of the Computer Science Graduate Student Group (CSGSG)."
+
+# Example for later:
+# - title: "Talks & Presentations"
+#   folder: "talks-and-presentations"
+#   description: "Presenting my research at conferences and workshops."
